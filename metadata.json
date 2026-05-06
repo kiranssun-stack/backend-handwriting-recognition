@@ -1,0 +1,6 @@
+{
+  "name": "MNIST Handwriting Recognizer",
+  "description": "A machine learning application to recognize handwritten digits using scikit-learn and FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
