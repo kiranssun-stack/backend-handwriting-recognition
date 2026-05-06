@@ -5,7 +5,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score
-
+git add model.pkl
+git commit -m "Add pre-trained model"
+git push
 def train_model():
     print("Loading MNIST dataset... (this may take a minute)")
     # fetch_openml returns the dataset as a bunch object
